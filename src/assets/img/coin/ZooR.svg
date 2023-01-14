@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>画板备份 6</title>
+    <defs>
+        <linearGradient x1="-0.000235525933%" y1="49.999706%" x2="99.9997554%" y2="49.999706%" id="linearGradient-1">
+            <stop stop-color="#2CB7FF" offset="0%"></stop>
+            <stop stop-color="#8D59E0" offset="50.7643373%"></stop>
+            <stop stop-color="#F3229D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M104.778926,0 C94.9873055,8.03752851 83.1703369,12.9064061 70.5853913,14.0867088 C68.5937597,14.2735243 66.5854404,14.3659017 64.5624767,14.3659017 C62.5398536,14.3659017 60.5311937,14.2735243 58.5399027,14.0867088 C45.954276,12.9064061 34.1376479,8.03752851 24.3460269,0 L0.180125121,24.3677397 C9.29980885,32.4080155 19.541999,38.4568524 30.3546377,42.5070388 C52.3746314,50.7729354 76.7499814,50.7729354 98.7703157,42.5070388 C109.582954,38.456509 119.825145,32.4080155 128.944828,24.3677397 L104.778926,0 Z" id="path-2"></path>
+        <filter x="-23.1%" y="-22.9%" width="146.1%" height="145.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <polygon id="path-5" points="129.944903 24.0639529 105.88095 -8.70507854e-14 3.40314136e-05 105.880916 24.0639869 129.944529"></polygon>
+        <filter x="-41.9%" y="-62.3%" width="183.9%" height="224.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#FD8F61" offset="0.0863028573%"></stop>
+            <stop stop-color="#A424EF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="画板备份-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" fill="#FFFFFF">
+            <circle id="椭圆形" cx="128" cy="128" r="128"></circle>
+        </g>
+        <g id="编组备份" transform="translate(63.000000, 63.000000)">
+            <g id="编组-3" transform="translate(1.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Fill-1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <polygon id="Fill-5" fill="#1C0887" filter="url(#filter-4)" mask="url(#mask-3)" points="128.944828 24.3679114 104.863046 0.0849941597 -1.09631728 106.929349 22.9854646 131.211923"></polygon>
+            </g>
+            <g id="编组-2">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Fill-5" fill="#1C0887" xlink:href="#path-5"></use>
+                <path d="M71.5468859,82.1468034 C57.6004663,81.1030666 43.4730038,83.0377727 30.1981152,87.9509215 C19.3788482,91.9502932 9.12518325,97.9255288 -2.90169285e-14,105.881052 L24.150733,130.031445 L71.5468859,82.1468034 Z" id="路径" fill="#180733" filter="url(#filter-7)" mask="url(#mask-6)"></path>
+            </g>
+            <path d="M30.3370136,88.0583726 C19.4679826,92.0445435 9.16715519,98.0000565 0,105.929321 L24.261816,130 C34.1250378,122.080233 46.0138951,117.297981 58.6764257,116.175259 C60.600865,116.002611 62.5447915,115.916117 64.5,115.918831 C66.4558923,115.916117 68.3998187,116.002611 70.3235743,116.175259 C82.9864467,117.297981 94.875646,122.080233 104.738868,130 L129,105.929321 C119.833187,98.0000565 109.532359,92.0445435 98.6636701,88.0583726 C76.6647541,79.9805425 52.3355878,79.9805425 30.3370136,88.0583726 Z" id="Fill-3" fill="url(#linearGradient-8)"></path>
+        </g>
+    </g>
+</svg>

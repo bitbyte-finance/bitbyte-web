@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ETH</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页1" transform="translate(-1014.000000, -316.000000)">
+            <g id="编组-5" transform="translate(750.000000, 172.000000)">
+                <g id="编组-2" transform="translate(24.000000, 96.000000)">
+                    <g id="ETH" transform="translate(240.000000, 48.000000)">
+                        <circle id="椭圆形" fill="#353535" cx="18" cy="18" r="18"></circle>
+                        <polygon id="路径" fill="#DCDCDC" fill-rule="nonzero" points="18 4 18 24 26 18.7466146"></polygon>
+                        <polygon id="路径" fill="#989898" fill-rule="nonzero" points="18 4 10 18.7466146 18 24 18 14.706901"></polygon>
+                        <polygon id="路径" fill="#E0E0E0" fill-rule="nonzero" points="18.0972948 25.0309508 18 25.1588875 18 31.6937254 18.0972655 32 26 20"></polygon>
+                        <polygon id="路径" fill="#989898" fill-rule="nonzero" points="18 32 18 25.0309508 10 20"></polygon>
+                        <polygon id="路径" fill="#C0C0C0" fill-rule="nonzero" points="18 24 26 18.4376047 18 14"></polygon>
+                        <polygon id="路径" fill="#AEAEAE" fill-rule="nonzero" points="10 18.4375855 18 24 18 14"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

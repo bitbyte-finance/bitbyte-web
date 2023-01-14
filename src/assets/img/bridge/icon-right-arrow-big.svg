@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bridge" transform="translate(-948.000000, -537.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="编组-8" transform="translate(688.000000, 272.000000)">
+                <g id="编组-9" transform="translate(22.000000, 210.000000)">
+                    <g id="前进" transform="translate(238.000000, 55.000000)">
+                        <polygon id="路径" points="14.5125 16.7662265 16.6913393 19 24 11.5 16.6913393 4 14.5125 6.23377353 18.0898214 9.90474852 -1.06747944e-13 9.90474852 -1.06747944e-13 13.0973588 18.0898214 13.0973588"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

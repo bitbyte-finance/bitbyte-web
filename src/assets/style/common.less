@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body,html{
+  width: 100%;
+  min-height: 100vh;
+  font-family:  "PingFang SC", "Microsoft Yahei";
+}
+html{
+  background: linear-gradient(180deg, #575C6E 0%, #313131 100%);
+}
+body{
+  background:  url('../img/swap-bg.png');
+}
+ul{
+  list-style: none;
+}
+.loading{
+  -webkit-animation: loadingAnimation 0.8s infinite linear;
+  animation: loadingAnimation 0.8s infinite linear;
+  display: inline-block;
+  content: "";
+  width: 16px;
+  height: 16px;
+  // background: red;
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 2px solid #fff;
+  border-left-color: transparent !important;
+}
+@keyframes loadingAnimation{
+  0% { transform: rotate( 0deg ); }
+  100% { transform: rotate( 360deg ); }
+}

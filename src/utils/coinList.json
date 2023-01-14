@@ -1,0 +1,146 @@
+{
+  "56": [
+  {
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "balance": "--",
+    "decimals": "18",
+    "name": "USDT",
+    "totalSupply": "1825802962000000000000000000",
+    "icon":"USDT"
+  },
+  {
+    "address": "0x67Fa70a0B61c8390D0BE5c7370BFbC6126412F01",
+    "balance": "--",
+    "decimals": "18",
+    "name": "ZBC",
+    "totalSupply": "2100000000000000000000000000000000",
+    "icon":"ZBC"
+  },
+  {
+    "address": "0x4F6182C83b2b0dce2cbe7deC85348f1c8Dd896b3",
+    "balance": "--",
+    "decimals": "18",
+    "name": "ZooR",
+    "totalSupply": "10000000000000000000000000000",
+    "icon":"ZooR"
+  },
+    {
+      "address": "0x6010e1a66934C4D053E8866Acac720c4a093d956",
+      "balance": "--",
+      "decimals": "18",
+      "name": "BNG",
+      "totalSupply": "10000000000000000000000000000",
+      "icon":"BNG"
+    }
+],
+  "128": [
+    {
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "balance": "--",
+      "decimals": "18",
+      "name": "USDT",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"USDT"
+    },
+    {
+      "address": "0x3bd3956488e429dcecf6ee5e6e29660f7465d880",
+      "balance": "--",
+      "decimals": "18",
+      "name": "ZBC",
+      "totalSupply": "2100000000000000000000000000000000",
+      "icon":"ZBC"
+    },
+    {
+      "address": "0xcbda8289fa4b9a594f08a5a803bf890c81ff0e1a",
+      "balance": "--",
+      "decimals": "18",
+      "name": "ZooR",
+      "totalSupply": "10000000000000000000000000000",
+      "icon":"ZooR"
+    }
+    
+  ],
+  "97":[
+    {
+      "address": "0x8C43FbebAA2dED5a50C10766b0F03a151f2bBf17",
+      "balance": "--",
+      "decimals": "18",
+      "name": "USDT",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"USDT"
+    },{
+      "address": "0x39E7f6488216a90F60149E1190b8058dB6A610D9",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TZBC",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TZBC"
+    },{
+      "address": "0x487eE5d805b3C95Eb23055DC92aaD29a89961f17",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TZOOR",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TZOOR"
+    },{
+      "address": "0xd73a67C9ad64eDA2d59a9fDbdF328aE979c17dB6",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TMZBC",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TMZBC"
+    }
+    
+  ],
+  "256":[
+    {
+      "address": "0xDFC1131ec635dec9C81012E5d0b09E04FF943F4f",
+      "balance": "--",
+      "decimals": "18",
+      "name": "USDT",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"USDT"
+    },{
+      "address": "0x1E48B3f37bFf8DEe62bd49dcb9AC403743d21Fb2",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TZBC",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TZBC"
+    },{
+      "address": "0x8EA184Db725E38d545E891409A4a77ca7017AfF3",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TZOOR",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TZOOR"
+    },{
+      "address": "0x291cC3ab7C8FCe38dEDF1787C027246DFdc3B90b",
+      "balance": "--",
+      "decimals": "18",
+      "name": "TMZBC",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"TMZBC"
+    }
+    
+  ],
+  "coinList_dev": [
+    {
+      "address": "0x1Cb429e9967518d42E98aE29031d42EAb73eC8D7",
+      "balance": "--",
+      "decimals": "18",
+      "name": "NFTXZ",
+      "totalSupply": "1825802962000000000000000000",
+      "icon":"NFTXZ"
+    },
+    {
+      "address": "0xb4756de238FfAA918A1EC6edDC21954F6f8cA496",
+      "balance": "--",
+      "decimals": "18",
+      "name": "XZ",
+      "totalSupply": "2100000000000000000000000000000000",
+      "icon":"XZ"
+    }
+  ]
+
+}
